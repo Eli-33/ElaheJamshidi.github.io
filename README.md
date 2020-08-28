@@ -22,7 +22,7 @@ Must properly utilize Bootstrap components and grid system.
 *Portfolio.html & portfolio.css
 
 ## Accessing the site
-Please visit the [my website](https://eli-33.github.io/ElaheJamshidi.github.io/).
+Please visit [my website](https://eli-33.github.io/ElaheJamshidi.github.io/).
 
 
 ## Screenshot
