@@ -3,15 +3,13 @@
   }
 
 body {
-  background-image: url("morocco.png");
+  
     background-color: rgb(96, 175, 169);
     font-family: 'Times New Roman', Times, serif;
     
 }
-
-
-
 .navbar-brand{
+    text-align: right;
     background-color: teal;
     font-family: 'Lobster', cursive;
     font-family: 'Ultra', serif;
@@ -19,80 +17,62 @@ body {
     margin: 5px ;
 }
 .container-fluid{
-  width: 850px; 
-  margin-top: 30px; 
-  margin-left:30px;
+  position: relative;
+  padding: 0%;
 }
 
-h1{
-    font-weight: bolder;
-    color: teal;
-    font-family: 'Oswald', sans-serif;
-    padding: 10px;
-    margin: 5px 10px 10px 20px;
-   
+#video{
+  height: 100vh;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: relative;
+  z-index: 0;
 }
 
-.row {
-  background-color: white;
-    margin-left: 30px;
-    
-  }
-
-.bio-img {
-    width: 200px;
-    height: 200px;
-    background:white;
-    padding: 5px;
-    margin: 10px 10px 10px 20px;
+.mobile-background {
+  display: none;
+  background-image: url("morocco.png");
 }
 
-.col-md-12{
-  border-bottom: 1px solid rgb(168, 168, 168); 
-  margin-top: 10px;
+.content {
+  position: absolute;
+  z-index: 1;
+  top: 40%;
+  color: #fff;
 }
 
-.col-md-7{
-  font-family: 'Oswald', sans-serif;}
+.nameInfo {
+  padding-left: 10%;
+}
 
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-  }
-  
-  .fa:hover {
-      opacity: 0.7;
-  }
-  
-  .fa-facebook {
-    background: #3B5998;
-    color: white;
-  }
-
-  
-.fa-instagram {
-  background: #125688;
-  color: white;
+.subtitle {
+  padding-left: 15%;
 }
 
 .footer {
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    background-color: rgb(17, 83, 78);
-    color: white;
-    text-align: center;
-    border-top: 5px solid #4e094e;
+  position: sticky;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(17, 83, 78);
+  color: white;
+  text-align: center;
+  border-top: 5px solid #4e094e;
 }
+
+.social-icon {
+float: left;
+padding: 10px;
+width: 50px;
+text-decoration: none;
+}
+
+
 
 @media screen and (max-width: 768px) {
     body {
-      background-color: rgb(41, 15, 56);
+      background-color:  teal;
       
     }
     
@@ -104,18 +84,47 @@ h1{
     margin: 10px;
   }
   
-  h1 {
-    font-size: 20px;
-    padding: 2px;
-    margin:2px;
+  .nameInfo,
+  .subtitle {
+    color: teal;
+    text-align: center;
+    position: top;
+    padding-left: 0%;
+    
   }
-  .bio-img{
-    padding: 5px;
-    margin: 10px ;
+  #video {
+    display: none;
   }
-  .col-md-7{
-    font-size: 14px;
+
+  .mobile-background {
+    display: block;
+    height: 100vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+    position: relative;
+    z-index: 0;
+  }
+  .contact-container {
+    width: auto !important;
+    margin: 0 !important;
+  }
+  .footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    background-color: rgb(17, 83, 78);
+    color: white;
+    text-align: right;
+    border-top: 5px solid #4e094e;
   }
   
+  .social-icon {
+
+    width: 60px;
+    height: 60px;
+    background-size: 30px 30px;
   }
+}
   
