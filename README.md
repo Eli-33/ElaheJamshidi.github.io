@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Responsive Portfolio 
 This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.
 
@@ -16,7 +16,6 @@ Use Bootstrap CSS Framework to create a mobile responsive portfolio and layout.
 w3school for link icons and contact form.
 ```
 
-<<<<<<< HEAD
 ## Acceptance Criteria
 
 ```
