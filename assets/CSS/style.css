@@ -9,13 +9,26 @@ body {
     
 }
 .navbar-brand{
-    text-align: right;
-    background-color: teal;
-    font-family: 'Lobster', cursive;
-    font-family: 'Ultra', serif;
-    padding: 10px;
-    margin: 5px ;
+  background: rgba(77, 151, 148, 0.5);
+  font-family: 'Times New Roman', Times, serif;
+  padding: 10px;
+  margin: 5px ;
+  font-weight: bold;
 }
+
+a{
+  background: rgba(161, 216, 207, 0.788);
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px 0px;
+  color: rgb(15, 15, 15);
+  font-weight:700px;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 5px;
+  line-height: normal;
+
+}
+
 .container-fluid{
   position: relative;
   padding: 0%;
@@ -51,13 +64,16 @@ body {
 }
 
 .footer {
-  position: sticky;
+  position: relative;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(17, 83, 78);
+  height: 50px;
+  background-color: rgb(19, 41, 44);
   color: white;
   text-align: center;
+  display: center;
+  font-style: italic;
   border-top: 5px solid #4e094e;
 }
 
@@ -67,6 +83,35 @@ padding: 10px;
 width: 50px;
 text-decoration: none;
 }
+
+/* Bouncing arrow
+.arrow {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  margin-left: -22px;
+  margin-bottom: 50px;
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+}
+
+.bounce {
+  position: fixed;
+  left: 50%;
+  bottom: 0;
+  margin-top: -25px;
+  margin-left: -25px;
+  height: 50px;
+  width: 50px;
+  background: url('https://static1.squarespace.com/static/5e78f290575a6321739eba41/t/5ec8625c6dad0e25fa5a8234/1590190684880/Arrow.png');
+  background-size: 100% auto;
+  -webkit-animation: bounce 1s infinite;
+  -moz-animation: bounce 1s infinite;
+  -o-animation: bounce 1s infinite;
+  animation: bounce 1s infinite;
+} */
+
 
 
 
