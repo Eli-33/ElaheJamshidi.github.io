@@ -32,8 +32,10 @@ Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io
 
 ## Screenshot
 Main page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/main.PNG).
+
 contact page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/contact.PNG).
-portfolio (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/portfolio.PNG)
+
+portfolio (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/portfolio.PNG).
 
 ## License
 Due to the nature of this exercise, no license has been included.
