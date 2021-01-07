@@ -3,30 +3,15 @@
 This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.
 
 
-<<<<<<< HEAD
 ## Portfolio 
-=======
-## Objective
-
-# Responsive Portfolio - Homework 2
->>>>>>> 2f5c114c3ad0a0759f2e2c0e97b736ce4dabc4d5
 This assignment presents a reponsive portfolio that render on a variety of screen sizes. The portfolio has been created using HTML, CSS. and Bootstrap has been used as the framework for the layout and components.
 
 ## Objective
 Use Bootstrap CSS Framework to create a mobile responsive portfolio and layout.
-<<<<<<< HEAD
 w3school for link icons.
 
 ## Acceptance Criteria
 
-=======
-w3school for link icons and contact form.
-
-
-## Acceptance Criteria
-
-## Acceptance criteria
->>>>>>> 2f5c114c3ad0a0759f2e2c0e97b736ce4dabc4d5
 Functional, deployed application
 GitHub repository with README describing the project
 Navbar must be consistent on each page.
@@ -36,23 +21,8 @@ Must use semantic html.
 Each page must have valid and correct HTML. (use a validation service)
 Must contain your personalized information. (bio, name, images, links to social media, etc.)
 Must properly utilize Bootstrap components and grid system.
-<<<<<<< HEAD
 	
-=======
-Files included
-File	Relative Path	Description
-index.html	index.html	Main page/About me page
-portfolio.html	portfolio.html	Portfolio page
-contact.html	contact.html	Contact page
-css	Supplemental styles and media queries
-various files	assets/images/	
-Please visit the site hosted on GitHub Pages.
-
-```
-## Files 
-The app has 1 page which is index.html.there is 1 Javascript file. And, styles.css for styling the app.
->>>>>>> 2f5c114c3ad0a0759f2e2c0e97b736ce4dabc4d5
-
+## the link
 Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io/).
 
 ## Files 
@@ -61,13 +31,9 @@ Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io
 *Portfolio.html & portfolio.css
 
 ## Screenshot
-<<<<<<< HEAD
 Main page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/main.PNG).
 contact page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/contact.PNG).
 portfolio (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/portfolio.PNG)
-=======
-all added in Issues
->>>>>>> 2f5c114c3ad0a0759f2e2c0e97b736ce4dabc4d5
 
 ## License
 Due to the nature of this exercise, no license has been included.
