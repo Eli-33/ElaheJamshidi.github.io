@@ -23,17 +23,21 @@ Must contain your personalized information. (bio, name, images, links to social 
 Must properly utilize Bootstrap components and grid system.
 	
 ## the link
-Please visit [my website](https://eli-33.github.io/ElaheJamshidiAraghi.github.io/).
+Please visit [my website](https://eli-33.github.io/ElaheJamshidi.github.io/).
 
 ## Files 
 *About me.html & About me.css
+
 *Contact.html & Contact.css
+
 *Portfolio.html & portfolio.css
 
 ## Screenshot
 Main page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/main.PNG).
+
 contact page (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/contact.PNG).
-portfolio (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/portfolio.PNG)
+
+portfolio (https://github.com/Eli-33/ElaheJamshidi.github.io/blob/master/assets/Screenshots/portfolio.PNG).
 
 ## License
 Due to the nature of this exercise, no license has been included.
